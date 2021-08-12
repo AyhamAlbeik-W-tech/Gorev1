@@ -1,0 +1,59 @@
+/* Html Tag */
+h2{
+  padding: 3% 5% 1%;
+}
+p{
+  font-size: 1.4rem;
+}
+h6{
+  padding:3% 2% 0;
+}
+a{
+  padding: 0 2rem;
+}
+a:hover{
+  color: grey !important;
+}
+/* Title */
+
+/* content */
+#content{
+  padding: 3% 4%;
+ text-align: center;
+ }
+ .form{
+   padding: 1rem;
+   border-style: ridge;
+   border-width: 0.1rem;
+   border-color: black;
+ }
+ /* Footer */
+ #footer{
+  background-color: black;
+  color: white;
+  padding: 0.3rem 0;
+  text-align: center;
+ }
+ #footer a {
+   color: grey;
+ }
+ #footer a:hover{
+   color: red !important;
+ }
+ .a-footer{
+  padding:  1px 0;
+ }
+ .pargraph-footer{
+   margin-bottom: 10px;;
+ }
+
+ /* Destek-page  */
+ .des-con{
+   padding: 6% 17%;
+ }
+  .destek-page{
+  margin-top: 0;
+ }
+ .des-bt{
+   padding:1% 0;
+ }
